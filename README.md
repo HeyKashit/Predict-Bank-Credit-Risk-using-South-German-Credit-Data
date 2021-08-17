@@ -30,6 +30,7 @@ I started exploring datasets using pandas, NumPy,matplotlib and seaborn.
 
 ## Data visualization
 Ploted colleration matrix to get insights about dependend and independed variables.
+Made chats like( Bocxplot,countplot,distplot,pairplot).
 
 ## Model Selection I
 Used Svm,Knn,randomForest in Stack.
