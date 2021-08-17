@@ -11,3 +11,9 @@ Data mining makes it possible to find hidden information from large data sets by
 classification.
 The goal of this project, you have to build a model to predict whether the person,
 described by the attributes of the dataset, is a good (1) or a bad (0) credit risk
+
+# Approch
+
+The classical machine learning tasks like Data Exploration, Data Cleaning,
+Feature Engineering, Model Building, and Model Testing. Try out different machine
+learning algorithms that are the best fit for the above case.
