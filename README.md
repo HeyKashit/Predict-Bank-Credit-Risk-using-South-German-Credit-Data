@@ -1,7 +1,7 @@
 # Predict-Bank-Credit-Risk-using-South-German-Credit-Data
 Predict Bank Credit Risk using South German Credit Data prediction using machine Learning.
 
-PROEBLEM STATEMENT
+#PROEBLEM STATEMENT
 Normally, most of the bank's wealth is obtained from providing credit loans so that a
 marketing bank must be able to reduce the risk of non-performing credit loans. The risk
 of providing loans can be minimized by studying patterns from existing lending data.
