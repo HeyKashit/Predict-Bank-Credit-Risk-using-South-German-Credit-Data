@@ -27,12 +27,13 @@ You can get Dataset through this link:https://archive.ics.uci.edu/ml/datasets/So
 ## Data Exploration
 I started exploring datasets using pandas, NumPy,matplotlib and seaborn.
 
+## Data cleaning.
 
 ## Data visualization
 Ploted colleration matrix to get insights about dependend and independed variables.
 Made chats like( Bocxplot,countplot,distplot,pairplot).
 
-## Model Selection I
+## Model Selection 
 Used Svm,Knn,randomForest in Stack.
 used stacking ensemble technique.
 
