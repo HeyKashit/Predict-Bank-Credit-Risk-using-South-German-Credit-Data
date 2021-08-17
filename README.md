@@ -9,11 +9,24 @@ of providing loans can be minimized by studying patterns from existing lending d
 One technique that you can use to solve this problem is to use data mining techniques.
 Data mining makes it possible to find hidden information from large data sets by way of
 classification.
-The goal of this project, you have to build a model to predict whether the person,
-described by the attributes of the dataset, is a good (1) or a bad (0) credit risk
 
 # Approch
 
 The classical machine learning tasks like Data Exploration, Data Cleaning,
 Feature Engineering, Model Building, and Model Testing. Try out different machine
 learning algorithms that are the best fit for the above case.
+
+# GOAL
+The goal of this project, you have to build a model to predict whether the person,
+described by the attributes of the dataset, is a good (1) or a bad (0) credit risk
+
+# Datasource
+You can get Dataset through this link:https://archive.ics.uci.edu/ml/datasets/South+German+Credit
+
+# Project Various Step
+## Data Exploration
+I started exploring datasets using pandas, NumPy,matplotlib and seaborn.
+
+
+## Data visualization
+Ploted colleration matrix to get insights about dependend and independed variables.
