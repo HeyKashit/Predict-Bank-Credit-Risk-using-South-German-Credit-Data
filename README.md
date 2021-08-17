@@ -30,3 +30,14 @@ I started exploring datasets using pandas, NumPy,matplotlib and seaborn.
 
 ## Data visualization
 Ploted colleration matrix to get insights about dependend and independed variables.
+
+## Model Selection I
+Used Svm,Knn,randomForest in Stack.
+used stacking ensemble technique.
+
+## Hyperparameter Optimization
+Using Randomizedsearch CV to select the best parameter for training the model
+
+## Model Dump
+As per selected trained model is dumped to pickled format for app development
+
